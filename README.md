@@ -1,4 +1,3 @@
-
 # CLEANBOT – Smart Waste Collection and Segregation Vehicle
 
 An ESP32-CAM-based smart waste collection and segregation vehicle featuring wireless control, camera monitoring, AI-based waste classification, and a robotic arm.
@@ -70,9 +69,31 @@ The project integrates:
 - Servo control system
 - AI-based classification
 
-## Project Demonstration
+## Project Gallery
 
-Project photographs and demonstration videos will be added here.
+### 1. CLEANBOT – Front View
+
+![CLEANBOT Front View](Images/cleanbot_front.jpg)
+
+### 2. CLEANBOT – Side View
+
+![CLEANBOT Side View](Images/cleanbot_side.jpg)
+
+### 3. CLEANBOT – Top View
+
+![CLEANBOT Top View](Images/cleanbot_top.jpg)
+
+### 4. Electronics Setup
+
+![Electronics Setup](Images/electronics_setup.jpg)
+
+### 5. Robotic Arm
+
+![Robotic Arm](Images/robotic_arm.jpg)
+
+### 6. Project Exhibition
+
+![CLEANBOT Exhibition](Images/exhibition.jpg)
 
 ## Project Report
 
@@ -87,7 +108,7 @@ This project was presented at Pragathi Expo, SR University.
 
 ## Repository Status
 
-Documentation uploaded. Source code, circuit diagrams, and demonstration media will be added as they are organized.
+Documentation and project photographs uploaded. Source code, circuit diagrams, and demonstration media will be added as they are organized.
 
 ---
 
